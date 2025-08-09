@@ -22,16 +22,16 @@ Development & Backend: Only-Niharika
 ## 📸 Screenshots
 
 **Before Modifications**
-![Before Page](screenshots/before_page.png)
+![Before Page](Screenshots/after_page.png)
 
 **After Modifications**
-![After Page](screenshots/after_page.png)
+![After Page](Screenshots/after_page.png)
 
 **My Addons**
-![My addons](screenshots/my_addons.png)
-![My addons](screenshots/my_addons_1.png)
-![My addons](screenshots/my_addons_2.png)
-![My addons](screenshots/my_addons_3.png)
+![My addons](Screenshots/my_addons.png)
+![My addons](Screenshots/my_addons_1.png)
+![My addons](Screenshots/my_addons_2.png)
+![My addons](Screenshots/my_addons_3.png)
 
 
 ## 📂 Project Structure
