@@ -1,4 +1,4 @@
 <?php
-$conn=mysqli_connect("host", "username", "password");
-mysqli_select_db($conn, "the_cafe");//table name
+$conn=mysqli_connect("localhost", "root", "");
+mysqli_select_db($conn, "the_cafe");
 ?>

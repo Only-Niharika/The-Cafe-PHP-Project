@@ -96,7 +96,7 @@ echo $_SESSION["user_id"];
 </div>
 
    <!-- Place order section -->
-<div class="w3-container w3-padding-64 w3-light-grey" id="order">
+<div class="w3-container w3-padding-64 w3-light-grey" id="order" style="margin-top:70px">
   <div class="w3-center">
     <span class="w3-xlarge" style="padding-bottom:50px">Place Your Order Here</span>
     <h2 class="w3-xxlarge w3-wide"></h2>
