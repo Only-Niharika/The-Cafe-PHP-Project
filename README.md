@@ -28,10 +28,13 @@ Development & Backend: Only-Niharika
 ![After Page](Screenshots/after_page.png)
 
 **My Addons**
-![My addons](Screenshots/my_addons.png)
-![My addons](Screenshots/my_addons_1.png)
-![My addons](Screenshots/my_addons_2.png)
-![My addons](Screenshots/my_addons_3.png)
+![My addons 1](Screenshots/my_addons.png)
+
+![My addons 2](Screenshots/my_addons_1.png)
+
+![My addons 3](Screenshots/my_addons_2.png)
+
+![My addons 4](Screenshots/my_addons_3.png)
 
 
 ## 📂 Project Structure
