@@ -48,7 +48,7 @@ Development & Backend: Only-Niharika
 Project-Cafe/
 │
 ├── index.php # Homepage
-admin
+| admin
 ├── index.php # User login
 ├── register.php # User registration
 ├── image/ # Images
