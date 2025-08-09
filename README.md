@@ -22,17 +22,24 @@ Development & Backend: Only-Niharika
 ## 📸 Screenshots
 
 **Before Modifications**
-![Before Page](Screenshots/after_page.png)
+![Before Page](Screenshots/before_page.png)
 
 **After Modifications**
 ![After Page](Screenshots/after_page.png)
 
-**My Addons**
+**My Addons 1**
+
 ![My addons 1](Screenshots/my_addons.png)
+
+**My Addons 2**
 
 ![My addons 2](Screenshots/my_addons_1.png)
 
+**My Addons 3**
+
 ![My addons 3](Screenshots/my_addons_2.png)
+
+**My Addons 4**
 
 ![My addons 4](Screenshots/my_addons_3.png)
 
