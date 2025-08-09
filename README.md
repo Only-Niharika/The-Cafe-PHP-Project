@@ -38,10 +38,12 @@ Development & Backend: Only-Niharika
 Project-Cafe/
 │
 ├── index.php # Homepage
-├── login.php # User login
+admin
+├── index.php # User login
 ├── register.php # User registration
-├── assets/ # CSS, JS, Images
+├── image/ # Images
 ├── config/ # Database connection file
+├── session.php # Session start
 ├── database.sql # Database schema & sample data
 └── README.md # Project documentation
 
