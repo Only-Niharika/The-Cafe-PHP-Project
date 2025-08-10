@@ -44,18 +44,18 @@ Development & Backend: Only-Niharika
 ![My addons 4](Screenshots/my_addons_3.png)
 
 
-## 📂 Project Structure
-Project-Cafe/
+The-Cafe-PHP-Project/
 │
-├── index.php # Homepage
-| admin
-├── index.php # User login
-├── register.php # User registration
-├── image/ # Images
-├── config/ # Database connection file
-├── session.php # Session start
-├── database.sql # Database schema & sample data
-└── README.md # Project documentation
+├── index.php                             # Homepage
+│
+├── admin/
+│   ├── index.php                         # Login page
+│   ├── home.php                          # Welcome page
+│   ├── profile.php                       # Profile page
+│   ├── logout.php                        # Logout page
+│   ├── code.php                          # Code for login and register
+│   ├── connection.php                    # Database connection
+│   └── session.php                       # Session start page
 
 yaml
 Copy
