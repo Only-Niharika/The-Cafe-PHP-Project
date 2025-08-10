@@ -86,10 +86,3 @@ $dbname = "your_database_name";
 Run the project
 
 Start a local server (XAMPP / WAMP / MAMP)
-
----
-
-🙌 Credits
-Template Design: Adapted from W3Schools Café Template
-
-Development & Backend: Only-Niharika
