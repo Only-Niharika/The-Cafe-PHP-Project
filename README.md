@@ -67,7 +67,7 @@ Import the provided database.sql file.
 
 Configure database connection
 
-Open config/db.php
+Open connection.php
 
 Update with your local server credentials:
 
