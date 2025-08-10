@@ -57,12 +57,7 @@ The-Cafe-PHP-Project/
 │   ├── connection.php                    # Database connection
 │   └── session.php                       # Session start page
 
-yaml
-Copy
-Edit
-
 ---
-
 
 Import the database
 
@@ -76,9 +71,6 @@ Open config/db.php
 
 Update with your local server credentials:
 
-php
-Copy
-Edit
 $servername = "localhost";
 $username = "root";
 $password = "";
